@@ -1,0 +1,5 @@
+# O NUCLEO do projeto usa apenas a biblioteca padrao do Python
+# (csv, heapq, random, math, time, logging) - roda sem instalar nada.
+#
+# Dependencia OPCIONAL, apenas para gerar o mapa do grafo (visualizacao.py):
+matplotlib>=3.7
